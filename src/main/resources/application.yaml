@@ -1,0 +1,8 @@
+spring:
+  r2dbc:
+    url: r2dbc:oracle://localhost:1521/ORCLCDB
+    username: T24RT
+    password: 123456789
+
+server:
+  port: 8081
